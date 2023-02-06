@@ -1,0 +1,15 @@
+node_modules
+.env
+typechain
+typechain-types/src
+typechain-types/dist
+coverage
+coverage.json
+
+
+#Hardhat files
+artifacts
+cache
+
+
+yarn-error.log
